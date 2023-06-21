@@ -1,5 +1,5 @@
 # Marvel Heroes React App.
-This site was built using the following technologies:
+This App was built using the following technologies:
 - HTML 5
 - CSS 3
 - JavaScript
